@@ -46,7 +46,7 @@ User触发一个Intent然后Intent在model的作用下产生一个ViewState，�
 
 （据说，据说啊MVVM侧重于一个数据的绑定）
 
-![image-20211126204742877](C:\Users\Fool\AppData\Roaming\Typora\typora-user-images\image-20211126204742877.png)
+![image-20211126204742877](https://gitee.com/False_Mask/pics/raw/master/PicsAndGifs/image-20211126204742877.png)
 
 百度百科上的。
 
